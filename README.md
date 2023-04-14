@@ -1,4 +1,4 @@
-# Raedme<h1 align="center">Hi 👋, I'm chandanraghwan</h1>
+# Readme<h1 align="center">Hi 👋, I'm chandanraghwan</h1>
 <h3 align="center">I am coding enthusiast.</h3>
 <img align="right" width=400 alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgchumanrights.org%2Ffiles%2Feiuc%2FNews%2F2021%2F08%2520Agosto%2Fgchumanrights-policy-observatory.jpg&tbnid=Mptt2UrmxSPRhM&vet=12ahUKEwj8z8u3z6j-AhUw9XMBHbY7AlsQMygIegQIARBQ..i&imgrefurl=https%3A%2F%2Fgchumanrights.org%2Fnews-events%2Flatest-news%2Fnews-detail-page%2Fglobal-campus-policy-observatory-4449.html&docid=lDCPQ74ODOWomM&w=2040&h=1150&itg=1&q=gc%20image%20repository%20human&ved=2ahUKEwj8z8u3z6j-AhUw9XMBHbY7AlsQMygIegQIARBQ
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanraghwan&label=Profile%20views&color=0e75b6&style=flat" alt="chandanraghwan" /> </p>
